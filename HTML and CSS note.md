@@ -38,6 +38,7 @@ Here is a list of some of the most common HTML5 tags and their uses:
 
 These are just a few of the many HTML5 tags that are available. For more information, please consult the W3C's HTML5 specifications.
 
+
 # CSS
 
 CSS stands for Cascading Style Sheets, which is a style sheet language used for describing the presentation of a document written in HTML or XML. CSS helps to separate the content from the presentation by defining how the HTML elements should be displayed on the web page.
@@ -49,8 +50,8 @@ CSS has several benefits over traditional HTML styling methods. First, it provid
 CSS is an integral part of modern web development, and it is essential for web designers and developers to have a good understanding of CSS to create effective and engaging web pages. There are many resources available online to learn CSS, including tutorials, blogs, and online courses.
 
 In conclusion, CSS is a powerful tool for styling web pages and creating visually appealing and engaging websites. Its benefits include clear separation of content and presentation, consistency across multiple web pages, and greater control over layout and design. Anyone interested in web development should learn CSS to improve their skills and create better websites.
- 
- here are some properties in CSS
+
+here are some properties in CSS
 
 ```css
  {
