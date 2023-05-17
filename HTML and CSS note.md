@@ -49,6 +49,8 @@ CSS has several benefits over traditional HTML styling methods. First, it provid
 CSS is an integral part of modern web development, and it is essential for web designers and developers to have a good understanding of CSS to create effective and engaging web pages. There are many resources available online to learn CSS, including tutorials, blogs, and online courses.
 
 In conclusion, CSS is a powerful tool for styling web pages and creating visually appealing and engaging websites. Its benefits include clear separation of content and presentation, consistency across multiple web pages, and greater control over layout and design. Anyone interested in web development should learn CSS to improve their skills and create better websites.
+ 
+ here are some properties in CSS
 
 ```css
  {
